@@ -22,4 +22,5 @@ public interface ObjectLocators {
 	String obj_LoginHeader = "//td[@id='headerContainer']";
 	String obj_LoginImage = "//img[contains(@src, '/timer.png')]";
 	String obj_Task = "//img[contains(@src, '/timer.png')]";
+	String obj_Task1 = "//img[contains(@src, '/timer.png')]";
 }
